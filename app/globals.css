@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand: 33 131 255;
+}
+
+.body {
+  @apply antialiased;
+}
